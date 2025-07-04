@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import BlurCircle from './BlurCircle'
-import { dummyTrailers } from '../assets/assets'
+import { dummyTrailers } from '../assets/assets.js'
 import ReactPlayer from 'react-player'
 import { PlayCircleIcon } from 'lucide-react'
 

@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { dummyBookingData } from '../assets/assets'
+import { dummyBookingData } from '../assets/assets.js'
 import Loading from '../components/Loading'
 import BlurCircle from '../components/BlurCircle'
 const MyBooking = () => {

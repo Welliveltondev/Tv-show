@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
-import { dummyDateTimeData, dummyShowsData } from '../assets/assets'
+import { dummyDateTimeData, dummyShowsData } from '../assets/assets.js'
 import BlurCircle from '../components/BlurCircle'
 import { Heart, LoaderIcon, PlayCircleIcon, StarsIcon } from 'lucide-react'
 import timeFormat from '../lib/timeFormat'

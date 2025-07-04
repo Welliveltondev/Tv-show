@@ -1,5 +1,5 @@
 import React from 'react'
-import {dummyShowsData} from '../assets/assets'
+import {dummyShowsData} from '../assets/assets.js'
 import BlurCircle from '../components/BlurCircle'
 import MoviesCard from '../components/MoviesCard'
 const Movies = () => {
